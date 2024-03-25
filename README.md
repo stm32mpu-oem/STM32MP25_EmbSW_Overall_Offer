@@ -66,7 +66,7 @@ STM32MP25 Packages (specific)| Description
 ### STM32 MPU OpenSTLinux Expansion Packages 
 STM32MP25 Packages (specific)| Description
 ---------------------- | -----------
-[X-LINUX-AI](https://github.com/stm32mpu-oem/meta-st-stm32mpu-ai) | OpenEmbedded meta layer to install AI frameworks and tools for the STM32MP25 
+[X-LINUX-AI](https://github.com/stm32mpu-oem/meta-st-x-linux-ai) | OpenEmbedded meta layer to install AI frameworks and tools for the STM32MP25 
 X-LINUX-TSNSWCH | OpenEmbedded meta layer for x-linux-tsn-swch expansion package for the STM32MP25 (under TTTech License aggreement, delivered on request)
 X-LINUX-ACM| OpenEmbedded meta layer for x-linux-tsn-acm expansion package for the STM32MP25 (under TTTech License aggreement, delivered on request)
 
