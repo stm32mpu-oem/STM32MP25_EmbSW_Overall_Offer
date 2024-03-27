@@ -39,7 +39,7 @@ STM32MP25 Packages (specific) | Description
 [meta-st-stm32mp-addons](https://github.com/stm32mpu-oem/meta-st-stm32mp-addons) | STM32MPU OpenEmbedded/Yocto BSP layer addons (CubeMX machine, ...)
 [linux](https://github.com/stm32mpu-oem/linux) | STM32MP25 linux kernel on ***-stm32mp25 branch**
 [u-boot](https://github.com/stm32mpu-oem/u-boot) | STM32MP25 u-boot on ***-stm32mp25 branch**
-[arm-trusted-firmware](https://github.com/stm32mpu-oem/arm-trusted-firmware) | STM32MP25 arm trusted firmware (for A7) on ***-stm32mp25 branch**
+[arm-trusted-firmware](https://github.com/stm32mpu-oem/arm-trusted-firmware) | STM32MP25 arm trusted firmware on ***-stm32mp25 branch**
 [optee_os](https://github.com/stm32mpu-oem/optee_os) | STM32MP25 OPTEE OS on ***-stm32mp25 branch**
 [SCP-firmware](https://github.com/stm32mpu-oem/SCP-firmware) | STM32MP25 System Control Processor (SCP)
 [dt-stm32mp](https://github.com/stm32mpu-oem/dt-stm32mp) | STM32MP25 external device tree component
